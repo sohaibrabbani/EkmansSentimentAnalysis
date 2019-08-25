@@ -1,6 +1,6 @@
 # PsychX - Emotion Detection
 
-A Simple Lexicon-Based Sentiment Analysis implementation on the basis of Ekman's Six basic moods.
+A Simple Lexicon-Based Sentiment Analysis implementation on the basis of Ekman's Six basic emotions.
 
 
 ## License
